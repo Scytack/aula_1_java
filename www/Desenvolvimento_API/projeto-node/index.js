@@ -1,0 +1,1 @@
+console.log("Projeto Node iniciado com sucesso!");
